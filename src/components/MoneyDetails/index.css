@@ -1,0 +1,33 @@
+.details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.details-heading {
+  color: #3b82f6;
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.total-amount {
+  color: #4b5563;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.transactions-list {
+  list-style-type: none;
+ 
+

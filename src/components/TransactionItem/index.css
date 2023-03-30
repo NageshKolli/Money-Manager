@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.transaction-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.transaction-amount-expense {
+  color: #ff0000;
+}
+
+.transaction-amount-income {
+  color: #4caf50;
+}
